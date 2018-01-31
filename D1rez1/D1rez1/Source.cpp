@@ -37,6 +37,8 @@ void main()
 	Copy_arr(arr1, arr, Size);
 	Print_arr(arr1, Size);
 
+	cout << endl;
+	cout << "Hello world" << endl;
 	int OK;
 	cin >> OK;
 }
